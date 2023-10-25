@@ -5,7 +5,8 @@ This is an example program that is updated to API2 in code and with API2 control
 
  - Compatible OS's: All
  - Xojo IDE: Xojo 2023r3
- - Xojo API: API 2
+ - Xojo API Code: API 2
+ - Xojo API Controls: API 2
  - Level: Moderate
 
 Screen Grab:
