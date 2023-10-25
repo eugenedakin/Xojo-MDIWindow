@@ -12,6 +12,7 @@ Screen Grab:
 ![](https://github.com/eugenedakin/Xojo-MDIWindow/blob/main/MDIScreenGrab.png)
 
 Instructions:
+ - Download MDI.xojo_binary_project
  - Run the program in Xojo 2023r3
  - When the program starts, ensure the MDI is not maximized
  - Similar resolutions on two screens can view an extended version of the MDI
